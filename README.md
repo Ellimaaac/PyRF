@@ -1,2 +1,2 @@
 # PyRadar
-Python Library for Radar
+Python Library for Radar Application
