@@ -1,4 +1,4 @@
-# PyRadar
-Python Library for Radar System Application
+# PyRF
+Python Library for RF System Application
 
 
